@@ -8,7 +8,7 @@ public class Test {
         s.setName("Alex");
         Student b = new Student();
         b.setId(2);
-        b.setName("Anal");
+        b.setName("Anna");
         Student[] students = new Student[0];
         students = s.add(students, s);
         students = b.add(students, b);
